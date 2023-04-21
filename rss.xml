@@ -5,28 +5,26 @@
         <link>https://water-bai.github.io</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Thu, 20 Apr 2023 15:39:34 +0800</pubDate>
-        <lastBuildDate>Thu, 20 Apr 2023 15:39:34 +0800</lastBuildDate>
-        <category>test</category>
+        <pubDate>Fri, 21 Apr 2023 15:24:56 +0800</pubDate>
+        <lastBuildDate>Fri, 21 Apr 2023 15:24:56 +0800</lastBuildDate>
+        <category>notice</category>
         <item>
-            <guid isPermalink="true">https://water-bai.github.io/2023/04/20/hello-world/</guid>
-            <title>Hello World</title>
-            <link>https://water-bai.github.io/2023/04/20/hello-world/</link>
-            <category>test</category>
-            <pubDate>Thu, 20 Apr 2023 15:39:34 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;Quick-Start&#34;&gt;&lt;a href=&#34;#Quick-Start&#34; class=&#34;headerlink&#34; title=&#34;Quick Start&#34;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&#34;Create-a-new-post&#34;&gt;&lt;a href=&#34;#Create-a-new-post&#34; class=&#34;headerlink&#34; title=&#34;Create a new post&#34;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo new &lt;span class=&#34;string&#34;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s&#34;&gt;Writing&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;Run-server&#34;&gt;&lt;a href=&#34;#Run-server&#34; class=&#34;headerlink&#34; title=&#34;Run server&#34;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=&#34;&gt;Server&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;Generate-static-files&#34;&gt;&lt;a href=&#34;#Generate-static-files&#34; class=&#34;headerlink&#34; title=&#34;Generate static files&#34;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s&#34;&gt;Generating&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;Deploy-to-remote-sites&#34;&gt;&lt;a href=&#34;#Deploy-to-remote-sites&#34; class=&#34;headerlink&#34; title=&#34;Deploy to remote sites&#34;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
+            <guid isPermalink="true">https://water-bai.github.io/2023/04/21/notice/</guid>
+            <title>网站公告</title>
+            <link>https://water-bai.github.io/2023/04/21/notice/</link>
+            <category>notice</category>
+            <pubDate>Fri, 21 Apr 2023 15:24:56 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;关于网站作者&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#关于网站作者&#34;&gt;#&lt;/a&gt; 关于网站作者&lt;/h2&gt;
+&lt;p&gt;本网站为白开水的个人博客空间，本人目前是一名全栈 &amp;amp; 软件系统架构工程师。平时主要做前端架构与开发相关工作。之前一直在掘金，stackoverflow 等论坛做博客分享。由于比较分散，所以搭建该博客网站。日后会陆续将其他论坛的博客迁移到本站。&lt;/p&gt;
+&lt;h2 id=&#34;网站能力介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#网站能力介绍&#34;&gt;#&lt;/a&gt; 网站能力介绍&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;右上角支持切换夜间模式与白天模式&lt;/li&gt;
+&lt;li&gt;顶部导航可以查看全部文章以及文章标签，分类，时间线等&lt;/li&gt;
+&lt;li&gt;右下角紫色聊天框为人工智能聊天模型，可以提供访客浏览体验&lt;/li&gt;
+&lt;li&gt;文章支持打赏&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;网站规约&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#网站规约&#34;&gt;#&lt;/a&gt; 网站规约&lt;/h2&gt;
+&lt;p&gt;本网站是一个绿色，健康的网站，本着友善的原则，可以在评论区友好评论，不可在评论区互骂或者传播不良信息。发现后将在后台进行拉黑处理。&lt;/p&gt;
  ]]></description>
         </item>
     </channel>

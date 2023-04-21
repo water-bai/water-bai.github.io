@@ -1,15 +1,20 @@
 <?xml version="1.0"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://water-bai.github.io</id>
-    <title></title>
-    <link href="https://water-bai.github.io" />
-    <updated>2023-04-21T07:24:56.931Z</updated>
-    <category term="notice" />
-    <entry>
-        <id>https://water-bai.github.io/2023/04/21/notice/</id>
-        <title>网站公告</title>
-        <link rel="alternate" href="https://water-bai.github.io/2023/04/21/notice/"/>
-        <content type="html">&lt;h2 id=&#34;关于网站作者&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#关于网站作者&#34;&gt;#&lt;/a&gt; 关于网站作者&lt;/h2&gt;
+<rss version="2.0">
+    <channel>
+        <title> • Posts by &#34;notice&#34; category</title>
+        <link>https://water-bai.github.io</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Fri, 21 Apr 2023 15:24:56 +0800</pubDate>
+        <lastBuildDate>Fri, 21 Apr 2023 15:24:56 +0800</lastBuildDate>
+        <category>notice</category>
+        <item>
+            <guid isPermalink="true">https://water-bai.github.io/2023/04/21/notice/</guid>
+            <title>网站公告</title>
+            <link>https://water-bai.github.io/2023/04/21/notice/</link>
+            <category>notice</category>
+            <pubDate>Fri, 21 Apr 2023 15:24:56 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;关于网站作者&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#关于网站作者&#34;&gt;#&lt;/a&gt; 关于网站作者&lt;/h2&gt;
 &lt;p&gt;本网站为白开水的个人博客空间，本人目前是一名全栈 &amp;amp; 软件系统架构工程师。平时主要做前端架构与开发相关工作。之前一直在掘金，stackoverflow 等论坛做博客分享。由于比较分散，所以搭建该博客网站。日后会陆续将其他论坛的博客迁移到本站。&lt;/p&gt;
 &lt;h2 id=&#34;网站能力介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#网站能力介绍&#34;&gt;#&lt;/a&gt; 网站能力介绍&lt;/h2&gt;
 &lt;ul&gt;
@@ -20,8 +25,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;网站规约&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#网站规约&#34;&gt;#&lt;/a&gt; 网站规约&lt;/h2&gt;
 &lt;p&gt;本网站是一个绿色，健康的网站，本着友善的原则，可以在评论区友好评论，不可在评论区互骂或者传播不良信息。发现后将在后台进行拉黑处理。&lt;/p&gt;
-</content>
-        <category term="notice" />
-        <updated>2023-04-21T07:24:56.931Z</updated>
-    </entry>
-</feed>
+ ]]></description>
+        </item>
+    </channel>
+</rss>
